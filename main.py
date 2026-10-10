@@ -415,8 +415,3 @@ class PDFToolsApp(_TkBase):
             "About PDF Tools",
             "PDF Tools is a lightweight desktop utility for combining and splitting PDF files.",
         )
-
-
-if __name__ == "__main__":
-    app = PDFToolsApp()
-    app.mainloop()
