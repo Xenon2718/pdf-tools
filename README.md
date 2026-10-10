@@ -31,5 +31,5 @@ python -m pip install tkinterdnd2
 ## Run
 
 ```bash
-python main.py
+python Run.pyw
 ```
